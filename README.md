@@ -4,7 +4,7 @@
 - 🔭 I’m currently Software Engineer and Backend Developer with Node.js 
 - 👯 I’m looking to collaborate on more and more projects 
 - 📫 How to reach me: 
-  - https://ahmed3032000@gmail.com
+  - ahmed3032000@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/ahmed-hassanen-a6a90a220)
   - [CodeForces](https://codeforces.com/profile/ahmad3032000)
   - [Resume](https://drive.google.com/file/d/11JHVHrq0dCL7smkHcLYhO8rIgS9Y7_uh/view?usp=sharing)
