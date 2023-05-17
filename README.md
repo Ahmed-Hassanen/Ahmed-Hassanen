@@ -39,6 +39,6 @@
 ### 👨‍💻 Stats
 
 <br />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedokka2&show_icons=true&layout=compact&exclude_repo=k-means-clustering-for-customer-segmentation,phone-book-with-assembly" alt="Ahmed-Hassanen" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedokka2&show_icons=true&theme=buefy&hide_border=true&locale=en" alt="Ahmed-Hassanen" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedokka29&show_icons=true&layout=compact&exclude_repo=k-means-clustering-for-customer-segmentation,phone-book-with-assembly" alt="Ahmed-Hassanen" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedokka29&show_icons=true&theme=buefy&hide_border=true&locale=en" alt="Ahmed-Hassanen" />
 
