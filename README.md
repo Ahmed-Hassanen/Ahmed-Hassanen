@@ -39,6 +39,6 @@
 ### 👨‍💻 Stats
 
 <br />
-<img height="180em" align="center" src="github-readme-stats-steel-pi.vercel.app/api/top-langs?username=Ahmed-Hassanen&show_icons=true&layout=compact&exclude_repo=k-means-clustering-for-customer-segmentation,phone-book-with-assembly" alt="Ahmed-Hassanen" />
-<img height="180em" align="center" src="github-readme-stats-steel-pi.vercel.app/api?username=Ahmed-Hassanen&show_icons=true&theme=buefy&hide_border=true&locale=en" alt="Ahmed-Hassanen" />
+<img height="180em" align="center" src="http://github-readme-stats-steel-pi.vercel.app/api/top-langs?username=Ahmed-Hassanen&show_icons=true&layout=compact&exclude_repo=k-means-clustering-for-customer-segmentation,phone-book-with-assembly" alt="Ahmed-Hassanen" />
+<img height="180em" align="center" src="http://github-readme-stats-steel-pi.vercel.app/api?username=Ahmed-Hassanen&show_icons=true&theme=buefy&hide_border=true&locale=en" alt="Ahmed-Hassanen" />
 
