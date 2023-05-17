@@ -22,7 +22,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![C](https://img.shields.io/badge/-C-?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-?style=flat-square&logo=C++)
+![C++](https://img.shields.io/badge/-C++-333333??style=flat-square&logo=C++)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
