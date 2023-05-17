@@ -16,21 +16,20 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/javascript.svg" />
-<img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/c.svg" />
-<img align="left" alt="C++" width="40px" src="https://user-images.githubusercontent.com/47731377/116501296-bb98dd00-a8b0-11eb-9663-0c5cb4e712ef.png" />
-<img align="left" alt="Html" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg"  />
-<img align="left" alt="CSS" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg"  />
-<img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/47722373/163312574-4ef98529-81fd-4aaa-8246-cc881b7bebf2.png"/>
-<img align="left" alt="Node.js" width="40px"  src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"/>
-<img align="left" alt="MongoDB" width="40px" src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"/>
-<img align="left" alt="React" width="40px" height="40px"  src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/react.svg"/>
-<img align="left" width="40px" alt="Visual Studio Code"  src="https://user-images.githubusercontent.com/47731377/116501300-bcca0a00-a8b0-11eb-814b-ee4d9b2ed96a.png" />
-<img align="left" alt="Docker" width="40px"src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/cloud/docker.svg" />
-<img align="left" alt="Heroku" width="40px" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/cloud/heroku.svg" />
-<img align="left" alt="Trello" width="40px" src="https://user-images.githubusercontent.com/47731377/116507012-c5294180-a8be-11eb-9890-d5fcc089ed33.png" />
-<img align="left" alt="GitHub" width="40px" src="https://user-images.githubusercontent.com/47731377/116506791-4b915380-a8be-11eb-939c-4cae75981bfc.png" />
-<img align="left" alt="Git" width="40px" src="https://user-images.githubusercontent.com/47731377/116501309-bfc4fa80-a8b0-11eb-9bda-dde2a7c5036d.png" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Expressjs](https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=Express.js)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/-C-?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-C++-?style=flat-square&logo=C++)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Git](http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
+![Github](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code)
 
 
 
