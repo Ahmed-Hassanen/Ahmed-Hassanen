@@ -1,6 +1,4 @@
 ### Hi there 👋
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Hassanen&show_icons=true&layout=compact&exclude_repo=k-means-clustering-for-customer-segmentation,phone-book-with-assembly" alt="Ahmed-Hassanen" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Hassanen&show_icons=true&theme=buefy&hide_border=true&locale=en" alt="Ahmed-Hassanen" />
 
 - 🔭 I’m currently Software Engineer and Backend Developer with Node.js 
 - 👯 I’m looking to collaborate on more and more projects 
@@ -41,5 +39,6 @@
 ### 👨‍💻 Stats
 
 <br />
-
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Hassanen&show_icons=true&layout=compact&exclude_repo=k-means-clustering-for-customer-segmentation,phone-book-with-assembly" alt="Ahmed-Hassanen" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Hassanen&show_icons=true&theme=buefy&hide_border=true&locale=en" alt="Ahmed-Hassanen" />
 
